@@ -1,0 +1,10 @@
+{
+    "$schema": "https://railway.com",
+    "build": {
+      "builder": "NIXPACK"
+    },
+    "deploy": {
+      "startCommand": "npx serve -l $PORT"
+    }
+  }
+  
