@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  "start": "serve -l $PORT"
-   },
+ "scripts": {
+  "start": "serve -s . -l $PORT"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Josueprogramer/Sitio-baul-azul.git"
