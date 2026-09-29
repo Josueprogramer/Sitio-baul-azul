@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
   "start": "serve -l $PORT"
-},
+   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Josueprogramer/Sitio-baul-azul.git"
