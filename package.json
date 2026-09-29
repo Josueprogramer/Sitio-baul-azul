@@ -2,23 +2,9 @@
   "name": "baul-azul",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
- "scripts": {
-  "start": "npx serve -s . -l $PORT"
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Josueprogramer/Sitio-baul-azul.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Josueprogramer/Sitio-baul-azul/issues"
-  },
-  "homepage": "https://github.com/Josueprogramer/Sitio-baul-azul#readme",
-  "dependencies": {
-    "serve": "^14.2.6"
-  }
+  "dependencies": {}
 }
